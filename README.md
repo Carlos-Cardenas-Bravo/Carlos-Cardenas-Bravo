@@ -6,8 +6,8 @@
 ## Sobre mi
 
 - ⭐ Soy Carlos Cárdenas Bravo ⭐ 
-- ⭐ de Santiago de Chile
-- ⭐ Me dedico a Administrar Obras de Construcción y a la Programación de Aplicaciones en Ruby on Rails
+- ⭐ Vivo en Santiago de Chile
+- ⭐ Me dedico a Administrar Obras de Construcción y a Programar de Aplicaciones en Ruby on Rails
 - ⭐ Soy Costructor Civil de la Universidad Federico Santa María
 - ⭐ Realicé un curso de Wordpress
 - ⭐ Estoy terminando el bootcamp de Ruby on Rails
